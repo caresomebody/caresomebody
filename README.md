@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a dedicated professional in software quality assurance (QA) who is committed to delivering high-quality products to users. I have a strong background in manual and automation testing, including experience in mobile, web, API, and functional testing. I am skilled at identifying and resolving defects in software, and I am responsible for creating, developing, and executing test cases. I work closely with developers to ensure that the software meets the required specifications. Additionally, I have an interest in product management and UI/UX.
+As a Software Quality Assurance, dedicated to ensuring top-notch quality and flawless functionality of web-based applications. My testing expertise blends meticulous manual scrutiny with cutting-edge automation techniques. I specialize in assessing marketplace dynamics, payment gateways, and admin dashboards, leveraging tools like Gherkin Syntax, DBeaver, Selenium, Cucumber, Qase.io, and ClickUp.
+
+🎓 I proudly graduated with a Bachelor's degree in Computer Science from IPB University, equipping me with an arsenal of skills in software development, human-computer interaction, and the art of crafting intuitive UI/UX experiences. Complementing this foundation, I honed my skills further through a transformative Android Development Path at Bangkit 2021 and Product Management Bootcamp at Binar Academy in 2022. This journey taught me the art of ideation, validation, and precise orchestration needed to launch digital products into the world.
+
+🏆 In my college year, my passion for growth and innovation finds expression in numerous competitions and projects, such as Arkavidia, Joints UGM, Bangkit Academy, and Patroli Karhutla. Through these ventures, I've showcased my prowess in Android development, API testing, UI/UX design, and the art of harmonious team collaboration.
+
+🚀 Rooted in the realm of technology, my ultimate goal is to fuse QA testing excellence with product management finesse, crafting user-centric solutions that push the boundaries of innovation. Join me on this exciting journey as we navigate the ever-evolving landscape of technology and make meaningful advancements together.
+
+Feel free to dive into my repositories and explore the fruits of these endeavors. Connect with me at alinaufal00@gmail.com and let's embark on an exciting voyage of innovation together! 👊🏻
